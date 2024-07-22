@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chamupathi010
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning Web devolopment 
 - 📫 How to reach me ; IG: chamupathi_jayanath
 - ⚡ Fun fact: Formula one
 
