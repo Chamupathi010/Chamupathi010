@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Chamupathi010
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+<!-- -💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me ; IG: chamupathi_jayanath
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Formula one
 
 <!---
