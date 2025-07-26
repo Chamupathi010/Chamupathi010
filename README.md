@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chamupathi010
-- 👀 I’m interested in Coding
+- 👀 interested in coding
 - 🌱 I’m currently learning Web devolopment 
 - 📫 How to reach me ; IG: chamupathi_jayanath
-- ⚡ Fun fact: Love Formula one
+
 
 <!---
 Chamupathi010/Chamupathi010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
